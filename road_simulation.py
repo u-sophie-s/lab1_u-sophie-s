@@ -24,7 +24,7 @@ road = [
 ]
 
 
-# ==================== PART 1: CHECK THE SIGN ====================
+# ==================== PART 1: CHECK THE SIGN ==================
 
 # TODO 1: Return True only if sign is text AND is "bus", "zebra",
 # or a number from 20 to 100 written as text (e.g. "80"). Otherwise False.
